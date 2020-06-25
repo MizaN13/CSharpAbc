@@ -1,0 +1,13 @@
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\StaticClassAndAttributes\bin\Debug\netcoreapp3.1\StaticClassAndAttributes.exe
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\StaticClassAndAttributes\bin\Debug\netcoreapp3.1\StaticClassAndAttributes.deps.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\StaticClassAndAttributes\bin\Debug\netcoreapp3.1\StaticClassAndAttributes.runtimeconfig.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\StaticClassAndAttributes\bin\Debug\netcoreapp3.1\StaticClassAndAttributes.runtimeconfig.dev.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\StaticClassAndAttributes\bin\Debug\netcoreapp3.1\StaticClassAndAttributes.dll
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\StaticClassAndAttributes\bin\Debug\netcoreapp3.1\StaticClassAndAttributes.pdb
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\StaticClassAndAttributes\obj\Debug\netcoreapp3.1\StaticClassAndAttributes.csprojAssemblyReference.cache
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\StaticClassAndAttributes\obj\Debug\netcoreapp3.1\StaticClassAndAttributes.csproj.CoreCompileInputs.cache
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\StaticClassAndAttributes\obj\Debug\netcoreapp3.1\StaticClassAndAttributes.AssemblyInfoInputs.cache
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\StaticClassAndAttributes\obj\Debug\netcoreapp3.1\StaticClassAndAttributes.AssemblyInfo.cs
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\StaticClassAndAttributes\obj\Debug\netcoreapp3.1\StaticClassAndAttributes.dll
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\StaticClassAndAttributes\obj\Debug\netcoreapp3.1\StaticClassAndAttributes.pdb
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\StaticClassAndAttributes\obj\Debug\netcoreapp3.1\StaticClassAndAttributes.genruntimeconfig.cache

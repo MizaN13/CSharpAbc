@@ -1,0 +1,13 @@
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\GettersAndSetters\bin\Debug\netcoreapp3.1\GettersAndSetters.exe
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\GettersAndSetters\bin\Debug\netcoreapp3.1\GettersAndSetters.deps.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\GettersAndSetters\bin\Debug\netcoreapp3.1\GettersAndSetters.runtimeconfig.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\GettersAndSetters\bin\Debug\netcoreapp3.1\GettersAndSetters.runtimeconfig.dev.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\GettersAndSetters\bin\Debug\netcoreapp3.1\GettersAndSetters.dll
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\GettersAndSetters\bin\Debug\netcoreapp3.1\GettersAndSetters.pdb
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\GettersAndSetters\obj\Debug\netcoreapp3.1\GettersAndSetters.csprojAssemblyReference.cache
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\GettersAndSetters\obj\Debug\netcoreapp3.1\GettersAndSetters.csproj.CoreCompileInputs.cache
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\GettersAndSetters\obj\Debug\netcoreapp3.1\GettersAndSetters.AssemblyInfoInputs.cache
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\GettersAndSetters\obj\Debug\netcoreapp3.1\GettersAndSetters.AssemblyInfo.cs
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\GettersAndSetters\obj\Debug\netcoreapp3.1\GettersAndSetters.dll
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\GettersAndSetters\obj\Debug\netcoreapp3.1\GettersAndSetters.pdb
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\GettersAndSetters\obj\Debug\netcoreapp3.1\GettersAndSetters.genruntimeconfig.cache

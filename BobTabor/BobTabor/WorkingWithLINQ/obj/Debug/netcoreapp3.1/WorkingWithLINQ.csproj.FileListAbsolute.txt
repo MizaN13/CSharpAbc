@@ -1,0 +1,13 @@
+G:\CSharp\BobTabor\BobTabor\WorkingWithLINQ\bin\Debug\netcoreapp3.1\WorkingWithLINQ.exe
+G:\CSharp\BobTabor\BobTabor\WorkingWithLINQ\bin\Debug\netcoreapp3.1\WorkingWithLINQ.deps.json
+G:\CSharp\BobTabor\BobTabor\WorkingWithLINQ\bin\Debug\netcoreapp3.1\WorkingWithLINQ.runtimeconfig.json
+G:\CSharp\BobTabor\BobTabor\WorkingWithLINQ\bin\Debug\netcoreapp3.1\WorkingWithLINQ.runtimeconfig.dev.json
+G:\CSharp\BobTabor\BobTabor\WorkingWithLINQ\bin\Debug\netcoreapp3.1\WorkingWithLINQ.dll
+G:\CSharp\BobTabor\BobTabor\WorkingWithLINQ\bin\Debug\netcoreapp3.1\WorkingWithLINQ.pdb
+G:\CSharp\BobTabor\BobTabor\WorkingWithLINQ\obj\Debug\netcoreapp3.1\WorkingWithLINQ.csprojAssemblyReference.cache
+G:\CSharp\BobTabor\BobTabor\WorkingWithLINQ\obj\Debug\netcoreapp3.1\WorkingWithLINQ.csproj.CoreCompileInputs.cache
+G:\CSharp\BobTabor\BobTabor\WorkingWithLINQ\obj\Debug\netcoreapp3.1\WorkingWithLINQ.AssemblyInfoInputs.cache
+G:\CSharp\BobTabor\BobTabor\WorkingWithLINQ\obj\Debug\netcoreapp3.1\WorkingWithLINQ.AssemblyInfo.cs
+G:\CSharp\BobTabor\BobTabor\WorkingWithLINQ\obj\Debug\netcoreapp3.1\WorkingWithLINQ.dll
+G:\CSharp\BobTabor\BobTabor\WorkingWithLINQ\obj\Debug\netcoreapp3.1\WorkingWithLINQ.pdb
+G:\CSharp\BobTabor\BobTabor\WorkingWithLINQ\obj\Debug\netcoreapp3.1\WorkingWithLINQ.genruntimeconfig.cache

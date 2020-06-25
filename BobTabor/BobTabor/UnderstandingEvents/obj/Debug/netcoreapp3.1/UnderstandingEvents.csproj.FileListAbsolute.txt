@@ -1,0 +1,12 @@
+G:\CSharp\BobTabor\BobTabor\UnderstandingEvents\bin\Debug\netcoreapp3.1\UnderstandingEvents.exe
+G:\CSharp\BobTabor\BobTabor\UnderstandingEvents\bin\Debug\netcoreapp3.1\UnderstandingEvents.deps.json
+G:\CSharp\BobTabor\BobTabor\UnderstandingEvents\bin\Debug\netcoreapp3.1\UnderstandingEvents.runtimeconfig.json
+G:\CSharp\BobTabor\BobTabor\UnderstandingEvents\bin\Debug\netcoreapp3.1\UnderstandingEvents.runtimeconfig.dev.json
+G:\CSharp\BobTabor\BobTabor\UnderstandingEvents\bin\Debug\netcoreapp3.1\UnderstandingEvents.dll
+G:\CSharp\BobTabor\BobTabor\UnderstandingEvents\bin\Debug\netcoreapp3.1\UnderstandingEvents.pdb
+G:\CSharp\BobTabor\BobTabor\UnderstandingEvents\obj\Debug\netcoreapp3.1\UnderstandingEvents.csproj.CoreCompileInputs.cache
+G:\CSharp\BobTabor\BobTabor\UnderstandingEvents\obj\Debug\netcoreapp3.1\UnderstandingEvents.AssemblyInfoInputs.cache
+G:\CSharp\BobTabor\BobTabor\UnderstandingEvents\obj\Debug\netcoreapp3.1\UnderstandingEvents.AssemblyInfo.cs
+G:\CSharp\BobTabor\BobTabor\UnderstandingEvents\obj\Debug\netcoreapp3.1\UnderstandingEvents.dll
+G:\CSharp\BobTabor\BobTabor\UnderstandingEvents\obj\Debug\netcoreapp3.1\UnderstandingEvents.pdb
+G:\CSharp\BobTabor\BobTabor\UnderstandingEvents\obj\Debug\netcoreapp3.1\UnderstandingEvents.genruntimeconfig.cache

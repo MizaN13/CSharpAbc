@@ -1,0 +1,16 @@
+G:\CSharp\BobTabor\BobTabor\MyClient\bin\Debug\netcoreapp3.1\MyClient.exe
+G:\CSharp\BobTabor\BobTabor\MyClient\bin\Debug\netcoreapp3.1\MyClient.deps.json
+G:\CSharp\BobTabor\BobTabor\MyClient\bin\Debug\netcoreapp3.1\MyClient.runtimeconfig.json
+G:\CSharp\BobTabor\BobTabor\MyClient\bin\Debug\netcoreapp3.1\MyClient.runtimeconfig.dev.json
+G:\CSharp\BobTabor\BobTabor\MyClient\bin\Debug\netcoreapp3.1\MyClient.dll
+G:\CSharp\BobTabor\BobTabor\MyClient\bin\Debug\netcoreapp3.1\MyClient.pdb
+G:\CSharp\BobTabor\BobTabor\MyClient\bin\Debug\netcoreapp3.1\MyCodeLibrary.dll
+G:\CSharp\BobTabor\BobTabor\MyClient\bin\Debug\netcoreapp3.1\MyCodeLibrary.pdb
+G:\CSharp\BobTabor\BobTabor\MyClient\obj\Debug\netcoreapp3.1\MyClient.csprojAssemblyReference.cache
+G:\CSharp\BobTabor\BobTabor\MyClient\obj\Debug\netcoreapp3.1\MyClient.csproj.CoreCompileInputs.cache
+G:\CSharp\BobTabor\BobTabor\MyClient\obj\Debug\netcoreapp3.1\MyClient.AssemblyInfoInputs.cache
+G:\CSharp\BobTabor\BobTabor\MyClient\obj\Debug\netcoreapp3.1\MyClient.AssemblyInfo.cs
+G:\CSharp\BobTabor\BobTabor\MyClient\obj\Debug\netcoreapp3.1\MyClient.csproj.CopyComplete
+G:\CSharp\BobTabor\BobTabor\MyClient\obj\Debug\netcoreapp3.1\MyClient.dll
+G:\CSharp\BobTabor\BobTabor\MyClient\obj\Debug\netcoreapp3.1\MyClient.pdb
+G:\CSharp\BobTabor\BobTabor\MyClient\obj\Debug\netcoreapp3.1\MyClient.genruntimeconfig.cache

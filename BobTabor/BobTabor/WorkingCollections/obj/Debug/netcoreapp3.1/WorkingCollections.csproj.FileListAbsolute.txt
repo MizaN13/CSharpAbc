@@ -1,0 +1,13 @@
+G:\CSharp\BobTabor\BobTabor\WorkingCollections\bin\Debug\netcoreapp3.1\WorkingCollections.exe
+G:\CSharp\BobTabor\BobTabor\WorkingCollections\bin\Debug\netcoreapp3.1\WorkingCollections.deps.json
+G:\CSharp\BobTabor\BobTabor\WorkingCollections\bin\Debug\netcoreapp3.1\WorkingCollections.runtimeconfig.json
+G:\CSharp\BobTabor\BobTabor\WorkingCollections\bin\Debug\netcoreapp3.1\WorkingCollections.runtimeconfig.dev.json
+G:\CSharp\BobTabor\BobTabor\WorkingCollections\bin\Debug\netcoreapp3.1\WorkingCollections.dll
+G:\CSharp\BobTabor\BobTabor\WorkingCollections\bin\Debug\netcoreapp3.1\WorkingCollections.pdb
+G:\CSharp\BobTabor\BobTabor\WorkingCollections\obj\Debug\netcoreapp3.1\WorkingCollections.csprojAssemblyReference.cache
+G:\CSharp\BobTabor\BobTabor\WorkingCollections\obj\Debug\netcoreapp3.1\WorkingCollections.csproj.CoreCompileInputs.cache
+G:\CSharp\BobTabor\BobTabor\WorkingCollections\obj\Debug\netcoreapp3.1\WorkingCollections.AssemblyInfoInputs.cache
+G:\CSharp\BobTabor\BobTabor\WorkingCollections\obj\Debug\netcoreapp3.1\WorkingCollections.AssemblyInfo.cs
+G:\CSharp\BobTabor\BobTabor\WorkingCollections\obj\Debug\netcoreapp3.1\WorkingCollections.dll
+G:\CSharp\BobTabor\BobTabor\WorkingCollections\obj\Debug\netcoreapp3.1\WorkingCollections.pdb
+G:\CSharp\BobTabor\BobTabor\WorkingCollections\obj\Debug\netcoreapp3.1\WorkingCollections.genruntimeconfig.cache

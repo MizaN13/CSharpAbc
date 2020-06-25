@@ -1,0 +1,12 @@
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\SwitchStatement\bin\Debug\netcoreapp3.1\SwitchStatement.exe
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\SwitchStatement\bin\Debug\netcoreapp3.1\SwitchStatement.deps.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\SwitchStatement\bin\Debug\netcoreapp3.1\SwitchStatement.runtimeconfig.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\SwitchStatement\bin\Debug\netcoreapp3.1\SwitchStatement.runtimeconfig.dev.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\SwitchStatement\bin\Debug\netcoreapp3.1\SwitchStatement.dll
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\SwitchStatement\bin\Debug\netcoreapp3.1\SwitchStatement.pdb
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\SwitchStatement\obj\Debug\netcoreapp3.1\SwitchStatement.csproj.CoreCompileInputs.cache
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\SwitchStatement\obj\Debug\netcoreapp3.1\SwitchStatement.AssemblyInfoInputs.cache
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\SwitchStatement\obj\Debug\netcoreapp3.1\SwitchStatement.AssemblyInfo.cs
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\SwitchStatement\obj\Debug\netcoreapp3.1\SwitchStatement.dll
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\SwitchStatement\obj\Debug\netcoreapp3.1\SwitchStatement.pdb
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\SwitchStatement\obj\Debug\netcoreapp3.1\SwitchStatement.genruntimeconfig.cache

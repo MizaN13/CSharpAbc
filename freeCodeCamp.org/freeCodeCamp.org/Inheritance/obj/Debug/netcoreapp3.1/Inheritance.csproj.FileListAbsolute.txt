@@ -1,0 +1,12 @@
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.exe
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.deps.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.dev.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.dll
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.pdb
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.csproj.CoreCompileInputs.cache
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfoInputs.cache
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfo.cs
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.dll
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.pdb
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.genruntimeconfig.cache

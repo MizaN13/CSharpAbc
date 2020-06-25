@@ -1,0 +1,12 @@
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\GettingUserInput\bin\Debug\netcoreapp3.1\GettingUserInput.exe
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\GettingUserInput\bin\Debug\netcoreapp3.1\GettingUserInput.deps.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\GettingUserInput\bin\Debug\netcoreapp3.1\GettingUserInput.runtimeconfig.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\GettingUserInput\bin\Debug\netcoreapp3.1\GettingUserInput.runtimeconfig.dev.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\GettingUserInput\bin\Debug\netcoreapp3.1\GettingUserInput.dll
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\GettingUserInput\bin\Debug\netcoreapp3.1\GettingUserInput.pdb
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\GettingUserInput\obj\Debug\netcoreapp3.1\GettingUserInput.csproj.CoreCompileInputs.cache
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\GettingUserInput\obj\Debug\netcoreapp3.1\GettingUserInput.AssemblyInfoInputs.cache
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\GettingUserInput\obj\Debug\netcoreapp3.1\GettingUserInput.AssemblyInfo.cs
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\GettingUserInput\obj\Debug\netcoreapp3.1\GettingUserInput.dll
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\GettingUserInput\obj\Debug\netcoreapp3.1\GettingUserInput.pdb
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\GettingUserInput\obj\Debug\netcoreapp3.1\GettingUserInput.genruntimeconfig.cache

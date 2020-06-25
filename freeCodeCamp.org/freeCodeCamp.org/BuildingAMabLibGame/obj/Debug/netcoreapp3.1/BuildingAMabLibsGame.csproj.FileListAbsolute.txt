@@ -1,0 +1,13 @@
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\BuildingAMabLibGame\bin\Debug\netcoreapp3.1\BuildingAMabLibsGame.exe
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\BuildingAMabLibGame\bin\Debug\netcoreapp3.1\BuildingAMabLibsGame.deps.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\BuildingAMabLibGame\bin\Debug\netcoreapp3.1\BuildingAMabLibsGame.runtimeconfig.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\BuildingAMabLibGame\bin\Debug\netcoreapp3.1\BuildingAMabLibsGame.runtimeconfig.dev.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\BuildingAMabLibGame\bin\Debug\netcoreapp3.1\BuildingAMabLibsGame.dll
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\BuildingAMabLibGame\bin\Debug\netcoreapp3.1\BuildingAMabLibsGame.pdb
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\BuildingAMabLibGame\obj\Debug\netcoreapp3.1\BuildingAMabLibsGame.csprojAssemblyReference.cache
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\BuildingAMabLibGame\obj\Debug\netcoreapp3.1\BuildingAMabLibsGame.csproj.CoreCompileInputs.cache
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\BuildingAMabLibGame\obj\Debug\netcoreapp3.1\BuildingAMabLibsGame.AssemblyInfoInputs.cache
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\BuildingAMabLibGame\obj\Debug\netcoreapp3.1\BuildingAMabLibsGame.AssemblyInfo.cs
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\BuildingAMabLibGame\obj\Debug\netcoreapp3.1\BuildingAMabLibsGame.dll
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\BuildingAMabLibGame\obj\Debug\netcoreapp3.1\BuildingAMabLibsGame.pdb
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\BuildingAMabLibGame\obj\Debug\netcoreapp3.1\BuildingAMabLibsGame.genruntimeconfig.cache

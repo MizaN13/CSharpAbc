@@ -1,0 +1,12 @@
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.exe
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.deps.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.runtimeconfig.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.runtimeconfig.dev.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.dll
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.pdb
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.csproj.CoreCompileInputs.cache
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.AssemblyInfoInputs.cache
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.AssemblyInfo.cs
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.dll
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.pdb
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.genruntimeconfig.cache

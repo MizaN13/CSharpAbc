@@ -1,0 +1,12 @@
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\WorkingWithNumber\bin\Debug\netcoreapp3.1\WorkingWithNumber.exe
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\WorkingWithNumber\bin\Debug\netcoreapp3.1\WorkingWithNumber.deps.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\WorkingWithNumber\bin\Debug\netcoreapp3.1\WorkingWithNumber.runtimeconfig.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\WorkingWithNumber\bin\Debug\netcoreapp3.1\WorkingWithNumber.runtimeconfig.dev.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\WorkingWithNumber\bin\Debug\netcoreapp3.1\WorkingWithNumber.dll
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\WorkingWithNumber\bin\Debug\netcoreapp3.1\WorkingWithNumber.pdb
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\WorkingWithNumber\obj\Debug\netcoreapp3.1\WorkingWithNumber.csproj.CoreCompileInputs.cache
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\WorkingWithNumber\obj\Debug\netcoreapp3.1\WorkingWithNumber.AssemblyInfoInputs.cache
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\WorkingWithNumber\obj\Debug\netcoreapp3.1\WorkingWithNumber.AssemblyInfo.cs
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\WorkingWithNumber\obj\Debug\netcoreapp3.1\WorkingWithNumber.dll
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\WorkingWithNumber\obj\Debug\netcoreapp3.1\WorkingWithNumber.pdb
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\WorkingWithNumber\obj\Debug\netcoreapp3.1\WorkingWithNumber.genruntimeconfig.cache

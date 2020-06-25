@@ -1,0 +1,12 @@
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\2DArray\bin\Debug\netcoreapp3.1\2DArray.exe
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\2DArray\bin\Debug\netcoreapp3.1\2DArray.deps.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\2DArray\bin\Debug\netcoreapp3.1\2DArray.runtimeconfig.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\2DArray\bin\Debug\netcoreapp3.1\2DArray.runtimeconfig.dev.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\2DArray\bin\Debug\netcoreapp3.1\2DArray.dll
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\2DArray\bin\Debug\netcoreapp3.1\2DArray.pdb
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\2DArray\obj\Debug\netcoreapp3.1\2DArray.csproj.CoreCompileInputs.cache
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\2DArray\obj\Debug\netcoreapp3.1\2DArray.AssemblyInfoInputs.cache
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\2DArray\obj\Debug\netcoreapp3.1\2DArray.AssemblyInfo.cs
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\2DArray\obj\Debug\netcoreapp3.1\2DArray.dll
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\2DArray\obj\Debug\netcoreapp3.1\2DArray.pdb
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\2DArray\obj\Debug\netcoreapp3.1\2DArray.genruntimeconfig.cache

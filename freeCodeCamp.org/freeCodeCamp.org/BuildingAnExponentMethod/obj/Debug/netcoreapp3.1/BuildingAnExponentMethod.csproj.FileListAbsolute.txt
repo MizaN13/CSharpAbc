@@ -1,0 +1,12 @@
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\BuildingAnExponentMethod\bin\Debug\netcoreapp3.1\BuildingAnExponentMethod.exe
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\BuildingAnExponentMethod\bin\Debug\netcoreapp3.1\BuildingAnExponentMethod.deps.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\BuildingAnExponentMethod\bin\Debug\netcoreapp3.1\BuildingAnExponentMethod.runtimeconfig.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\BuildingAnExponentMethod\bin\Debug\netcoreapp3.1\BuildingAnExponentMethod.runtimeconfig.dev.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\BuildingAnExponentMethod\bin\Debug\netcoreapp3.1\BuildingAnExponentMethod.dll
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\BuildingAnExponentMethod\bin\Debug\netcoreapp3.1\BuildingAnExponentMethod.pdb
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\BuildingAnExponentMethod\obj\Debug\netcoreapp3.1\BuildingAnExponentMethod.csproj.CoreCompileInputs.cache
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\BuildingAnExponentMethod\obj\Debug\netcoreapp3.1\BuildingAnExponentMethod.AssemblyInfoInputs.cache
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\BuildingAnExponentMethod\obj\Debug\netcoreapp3.1\BuildingAnExponentMethod.AssemblyInfo.cs
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\BuildingAnExponentMethod\obj\Debug\netcoreapp3.1\BuildingAnExponentMethod.dll
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\BuildingAnExponentMethod\obj\Debug\netcoreapp3.1\BuildingAnExponentMethod.pdb
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\BuildingAnExponentMethod\obj\Debug\netcoreapp3.1\BuildingAnExponentMethod.genruntimeconfig.cache

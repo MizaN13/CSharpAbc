@@ -1,0 +1,12 @@
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\StaticMethodAndClasses\bin\Debug\netcoreapp3.1\StaticMethodAndClasses.exe
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\StaticMethodAndClasses\bin\Debug\netcoreapp3.1\StaticMethodAndClasses.deps.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\StaticMethodAndClasses\bin\Debug\netcoreapp3.1\StaticMethodAndClasses.runtimeconfig.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\StaticMethodAndClasses\bin\Debug\netcoreapp3.1\StaticMethodAndClasses.runtimeconfig.dev.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\StaticMethodAndClasses\bin\Debug\netcoreapp3.1\StaticMethodAndClasses.dll
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\StaticMethodAndClasses\bin\Debug\netcoreapp3.1\StaticMethodAndClasses.pdb
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\StaticMethodAndClasses\obj\Debug\netcoreapp3.1\StaticMethodAndClasses.csproj.CoreCompileInputs.cache
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\StaticMethodAndClasses\obj\Debug\netcoreapp3.1\StaticMethodAndClasses.AssemblyInfoInputs.cache
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\StaticMethodAndClasses\obj\Debug\netcoreapp3.1\StaticMethodAndClasses.AssemblyInfo.cs
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\StaticMethodAndClasses\obj\Debug\netcoreapp3.1\StaticMethodAndClasses.dll
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\StaticMethodAndClasses\obj\Debug\netcoreapp3.1\StaticMethodAndClasses.pdb
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\StaticMethodAndClasses\obj\Debug\netcoreapp3.1\StaticMethodAndClasses.genruntimeconfig.cache

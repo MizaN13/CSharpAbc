@@ -1,0 +1,13 @@
+G:\CSharp\BobTabor\BobTabor\VariableScopeAndAccessModifier\bin\Debug\netcoreapp3.1\VariableScopeAndAccessModifier.exe
+G:\CSharp\BobTabor\BobTabor\VariableScopeAndAccessModifier\bin\Debug\netcoreapp3.1\VariableScopeAndAccessModifier.deps.json
+G:\CSharp\BobTabor\BobTabor\VariableScopeAndAccessModifier\bin\Debug\netcoreapp3.1\VariableScopeAndAccessModifier.runtimeconfig.json
+G:\CSharp\BobTabor\BobTabor\VariableScopeAndAccessModifier\bin\Debug\netcoreapp3.1\VariableScopeAndAccessModifier.runtimeconfig.dev.json
+G:\CSharp\BobTabor\BobTabor\VariableScopeAndAccessModifier\bin\Debug\netcoreapp3.1\VariableScopeAndAccessModifier.dll
+G:\CSharp\BobTabor\BobTabor\VariableScopeAndAccessModifier\bin\Debug\netcoreapp3.1\VariableScopeAndAccessModifier.pdb
+G:\CSharp\BobTabor\BobTabor\VariableScopeAndAccessModifier\obj\Debug\netcoreapp3.1\VariableScopeAndAccessModifier.csproj.CoreCompileInputs.cache
+G:\CSharp\BobTabor\BobTabor\VariableScopeAndAccessModifier\obj\Debug\netcoreapp3.1\VariableScopeAndAccessModifier.AssemblyInfoInputs.cache
+G:\CSharp\BobTabor\BobTabor\VariableScopeAndAccessModifier\obj\Debug\netcoreapp3.1\VariableScopeAndAccessModifier.AssemblyInfo.cs
+G:\CSharp\BobTabor\BobTabor\VariableScopeAndAccessModifier\obj\Debug\netcoreapp3.1\VariableScopeAndAccessModifier.dll
+G:\CSharp\BobTabor\BobTabor\VariableScopeAndAccessModifier\obj\Debug\netcoreapp3.1\VariableScopeAndAccessModifier.pdb
+G:\CSharp\BobTabor\BobTabor\VariableScopeAndAccessModifier\obj\Debug\netcoreapp3.1\VariableScopeAndAccessModifier.genruntimeconfig.cache
+G:\CSharp\BobTabor\BobTabor\VariableScopeAndAccessModifier\obj\Debug\netcoreapp3.1\VariableScopeAndAccessModifier.csprojAssemblyReference.cache

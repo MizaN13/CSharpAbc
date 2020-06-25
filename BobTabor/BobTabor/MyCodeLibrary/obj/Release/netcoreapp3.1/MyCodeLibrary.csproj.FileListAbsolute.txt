@@ -1,0 +1,8 @@
+G:\CSharp\BobTabor\BobTabor\MyCodeLibrary\bin\Release\netcoreapp3.1\MyCodeLibrary.deps.json
+G:\CSharp\BobTabor\BobTabor\MyCodeLibrary\bin\Release\netcoreapp3.1\MyCodeLibrary.dll
+G:\CSharp\BobTabor\BobTabor\MyCodeLibrary\bin\Release\netcoreapp3.1\MyCodeLibrary.pdb
+G:\CSharp\BobTabor\BobTabor\MyCodeLibrary\obj\Release\netcoreapp3.1\MyCodeLibrary.csproj.CoreCompileInputs.cache
+G:\CSharp\BobTabor\BobTabor\MyCodeLibrary\obj\Release\netcoreapp3.1\MyCodeLibrary.AssemblyInfoInputs.cache
+G:\CSharp\BobTabor\BobTabor\MyCodeLibrary\obj\Release\netcoreapp3.1\MyCodeLibrary.AssemblyInfo.cs
+G:\CSharp\BobTabor\BobTabor\MyCodeLibrary\obj\Release\netcoreapp3.1\MyCodeLibrary.dll
+G:\CSharp\BobTabor\BobTabor\MyCodeLibrary\obj\Release\netcoreapp3.1\MyCodeLibrary.pdb

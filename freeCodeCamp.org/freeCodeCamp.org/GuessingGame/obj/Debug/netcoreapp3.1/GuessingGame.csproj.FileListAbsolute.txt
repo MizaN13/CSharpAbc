@@ -1,0 +1,12 @@
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.exe
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.deps.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.runtimeconfig.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.runtimeconfig.dev.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.dll
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.pdb
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.csproj.CoreCompileInputs.cache
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.AssemblyInfoInputs.cache
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.AssemblyInfo.cs
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.dll
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.pdb
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.genruntimeconfig.cache

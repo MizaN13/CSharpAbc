@@ -1,0 +1,12 @@
+G:\CSharp\BobTabor\BobTabor\GracefullyHandlingExceptions\bin\Release\netcoreapp3.1\GracefullyHandlingExceptions.exe
+G:\CSharp\BobTabor\BobTabor\GracefullyHandlingExceptions\bin\Release\netcoreapp3.1\GracefullyHandlingExceptions.deps.json
+G:\CSharp\BobTabor\BobTabor\GracefullyHandlingExceptions\bin\Release\netcoreapp3.1\GracefullyHandlingExceptions.runtimeconfig.json
+G:\CSharp\BobTabor\BobTabor\GracefullyHandlingExceptions\bin\Release\netcoreapp3.1\GracefullyHandlingExceptions.runtimeconfig.dev.json
+G:\CSharp\BobTabor\BobTabor\GracefullyHandlingExceptions\bin\Release\netcoreapp3.1\GracefullyHandlingExceptions.dll
+G:\CSharp\BobTabor\BobTabor\GracefullyHandlingExceptions\bin\Release\netcoreapp3.1\GracefullyHandlingExceptions.pdb
+G:\CSharp\BobTabor\BobTabor\GracefullyHandlingExceptions\obj\Release\netcoreapp3.1\GracefullyHandlingExceptions.csproj.CoreCompileInputs.cache
+G:\CSharp\BobTabor\BobTabor\GracefullyHandlingExceptions\obj\Release\netcoreapp3.1\GracefullyHandlingExceptions.AssemblyInfoInputs.cache
+G:\CSharp\BobTabor\BobTabor\GracefullyHandlingExceptions\obj\Release\netcoreapp3.1\GracefullyHandlingExceptions.AssemblyInfo.cs
+G:\CSharp\BobTabor\BobTabor\GracefullyHandlingExceptions\obj\Release\netcoreapp3.1\GracefullyHandlingExceptions.dll
+G:\CSharp\BobTabor\BobTabor\GracefullyHandlingExceptions\obj\Release\netcoreapp3.1\GracefullyHandlingExceptions.pdb
+G:\CSharp\BobTabor\BobTabor\GracefullyHandlingExceptions\obj\Release\netcoreapp3.1\GracefullyHandlingExceptions.genruntimeconfig.cache

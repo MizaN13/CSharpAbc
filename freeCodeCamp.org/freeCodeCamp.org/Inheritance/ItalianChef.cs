@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Inheritance
+{
+    class ItalianChef : Chef
+    {
+        public void MakePasta()
+        {
+            Console.WriteLine("The Chef makes Pasta");
+        }
+        public override void MakeSpecialDish()
+        {
+            Console.WriteLine("The Chef makes chicken parm");
+        }
+    }
+}

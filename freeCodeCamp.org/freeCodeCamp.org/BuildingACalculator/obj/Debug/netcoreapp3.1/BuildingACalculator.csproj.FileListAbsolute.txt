@@ -1,0 +1,12 @@
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\BuildingACalculator\bin\Debug\netcoreapp3.1\BuildingACalculator.exe
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\BuildingACalculator\bin\Debug\netcoreapp3.1\BuildingACalculator.deps.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\BuildingACalculator\bin\Debug\netcoreapp3.1\BuildingACalculator.runtimeconfig.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\BuildingACalculator\bin\Debug\netcoreapp3.1\BuildingACalculator.runtimeconfig.dev.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\BuildingACalculator\bin\Debug\netcoreapp3.1\BuildingACalculator.dll
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\BuildingACalculator\bin\Debug\netcoreapp3.1\BuildingACalculator.pdb
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\BuildingACalculator\obj\Debug\netcoreapp3.1\BuildingACalculator.csproj.CoreCompileInputs.cache
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\BuildingACalculator\obj\Debug\netcoreapp3.1\BuildingACalculator.AssemblyInfoInputs.cache
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\BuildingACalculator\obj\Debug\netcoreapp3.1\BuildingACalculator.AssemblyInfo.cs
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\BuildingACalculator\obj\Debug\netcoreapp3.1\BuildingACalculator.dll
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\BuildingACalculator\obj\Debug\netcoreapp3.1\BuildingACalculator.pdb
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\BuildingACalculator\obj\Debug\netcoreapp3.1\BuildingACalculator.genruntimeconfig.cache

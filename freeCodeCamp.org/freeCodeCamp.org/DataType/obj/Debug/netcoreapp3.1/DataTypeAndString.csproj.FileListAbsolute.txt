@@ -1,0 +1,13 @@
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\DataType\bin\Debug\netcoreapp3.1\DataTypeAndString.exe
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\DataType\bin\Debug\netcoreapp3.1\DataTypeAndString.deps.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\DataType\bin\Debug\netcoreapp3.1\DataTypeAndString.runtimeconfig.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\DataType\bin\Debug\netcoreapp3.1\DataTypeAndString.runtimeconfig.dev.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\DataType\bin\Debug\netcoreapp3.1\DataTypeAndString.dll
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\DataType\bin\Debug\netcoreapp3.1\DataTypeAndString.pdb
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\DataType\obj\Debug\netcoreapp3.1\DataTypeAndString.csprojAssemblyReference.cache
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\DataType\obj\Debug\netcoreapp3.1\DataTypeAndString.csproj.CoreCompileInputs.cache
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\DataType\obj\Debug\netcoreapp3.1\DataTypeAndString.AssemblyInfoInputs.cache
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\DataType\obj\Debug\netcoreapp3.1\DataTypeAndString.AssemblyInfo.cs
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\DataType\obj\Debug\netcoreapp3.1\DataTypeAndString.dll
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\DataType\obj\Debug\netcoreapp3.1\DataTypeAndString.pdb
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\DataType\obj\Debug\netcoreapp3.1\DataTypeAndString.genruntimeconfig.cache

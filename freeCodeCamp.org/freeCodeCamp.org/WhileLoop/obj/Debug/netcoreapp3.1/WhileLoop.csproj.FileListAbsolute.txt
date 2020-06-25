@@ -1,0 +1,12 @@
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\WhileLoop\bin\Debug\netcoreapp3.1\WhileLoop.exe
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\WhileLoop\bin\Debug\netcoreapp3.1\WhileLoop.deps.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\WhileLoop\bin\Debug\netcoreapp3.1\WhileLoop.runtimeconfig.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\WhileLoop\bin\Debug\netcoreapp3.1\WhileLoop.runtimeconfig.dev.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\WhileLoop\bin\Debug\netcoreapp3.1\WhileLoop.dll
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\WhileLoop\bin\Debug\netcoreapp3.1\WhileLoop.pdb
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\WhileLoop\obj\Debug\netcoreapp3.1\WhileLoop.csproj.CoreCompileInputs.cache
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\WhileLoop\obj\Debug\netcoreapp3.1\WhileLoop.AssemblyInfoInputs.cache
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\WhileLoop\obj\Debug\netcoreapp3.1\WhileLoop.AssemblyInfo.cs
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\WhileLoop\obj\Debug\netcoreapp3.1\WhileLoop.dll
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\WhileLoop\obj\Debug\netcoreapp3.1\WhileLoop.pdb
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\WhileLoop\obj\Debug\netcoreapp3.1\WhileLoop.genruntimeconfig.cache

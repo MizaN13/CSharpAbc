@@ -1,0 +1,12 @@
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\UpdateCalculator\bin\Debug\netcoreapp3.1\UpdateCalculator.exe
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\UpdateCalculator\bin\Debug\netcoreapp3.1\UpdateCalculator.deps.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\UpdateCalculator\bin\Debug\netcoreapp3.1\UpdateCalculator.runtimeconfig.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\UpdateCalculator\bin\Debug\netcoreapp3.1\UpdateCalculator.runtimeconfig.dev.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\UpdateCalculator\bin\Debug\netcoreapp3.1\UpdateCalculator.dll
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\UpdateCalculator\bin\Debug\netcoreapp3.1\UpdateCalculator.pdb
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\UpdateCalculator\obj\Debug\netcoreapp3.1\UpdateCalculator.csproj.CoreCompileInputs.cache
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\UpdateCalculator\obj\Debug\netcoreapp3.1\UpdateCalculator.AssemblyInfoInputs.cache
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\UpdateCalculator\obj\Debug\netcoreapp3.1\UpdateCalculator.AssemblyInfo.cs
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\UpdateCalculator\obj\Debug\netcoreapp3.1\UpdateCalculator.dll
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\UpdateCalculator\obj\Debug\netcoreapp3.1\UpdateCalculator.pdb
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\UpdateCalculator\obj\Debug\netcoreapp3.1\UpdateCalculator.genruntimeconfig.cache

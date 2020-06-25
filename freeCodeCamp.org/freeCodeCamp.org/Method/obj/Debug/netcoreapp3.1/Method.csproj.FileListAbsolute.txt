@@ -1,0 +1,12 @@
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\Method\bin\Debug\netcoreapp3.1\Method.exe
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\Method\bin\Debug\netcoreapp3.1\Method.deps.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\Method\bin\Debug\netcoreapp3.1\Method.runtimeconfig.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\Method\bin\Debug\netcoreapp3.1\Method.runtimeconfig.dev.json
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\Method\bin\Debug\netcoreapp3.1\Method.dll
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\Method\bin\Debug\netcoreapp3.1\Method.pdb
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\Method\obj\Debug\netcoreapp3.1\Method.csproj.CoreCompileInputs.cache
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\Method\obj\Debug\netcoreapp3.1\Method.AssemblyInfoInputs.cache
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\Method\obj\Debug\netcoreapp3.1\Method.AssemblyInfo.cs
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\Method\obj\Debug\netcoreapp3.1\Method.dll
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\Method\obj\Debug\netcoreapp3.1\Method.pdb
+G:\CSharp\freeCodeCamp.org\freeCodeCamp.org\Method\obj\Debug\netcoreapp3.1\Method.genruntimeconfig.cache
